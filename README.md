@@ -1,2 +1,2 @@
 # demo
-this is a demo for studing
+this is a demo for studing.
